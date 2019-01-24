@@ -94,6 +94,21 @@
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
+        <members>ActiveScratchOrg.Description</members>
+        <members>ActiveScratchOrg.Edition</members>
+        <members>ActiveScratchOrg.ExpirationDate</members>
+        <members>ActiveScratchOrg.Features</members>
+        <members>ActiveScratchOrg.Id</members>
+        <members>ActiveScratchOrg.LastLoginDate</members>
+        <members>ActiveScratchOrg.Name</members>
+        <members>ActiveScratchOrg.Namespace</members>
+        <members>ActiveScratchOrg.OrgName</members>
+        <members>ActiveScratchOrg.ScratchOrg</members>
+        <members>ActiveScratchOrg.ScratchOrgInfoId</members>
+        <members>ActiveScratchOrg.SignupEmail</members>
+        <members>ActiveScratchOrg.SignupInstance</members>
+        <members>ActiveScratchOrg.SignupTrialDays</members>
+        <members>ActiveScratchOrg.SignupUsername</members>
         <members>Asset.AccountId</members>
         <members>Asset.AssetLevel</members>
         <members>Asset.AssetProvidedById</members>
@@ -454,6 +469,7 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>NamespaceRegistry.NamespacePrefix</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
         <members>Opportunity.CampaignId</members>
@@ -576,6 +592,34 @@
         <members>ScorecardMetric.Name</members>
         <members>ScorecardMetric.ReportId</members>
         <members>ScorecardMetric.ScorecardId</members>
+        <members>ScratchOrgInfo.AdminEmail</members>
+        <members>ScratchOrgInfo.AuthCode</members>
+        <members>ScratchOrgInfo.ConnectedAppCallbackUrl</members>
+        <members>ScratchOrgInfo.ConnectedAppConsumerKey</members>
+        <members>ScratchOrgInfo.Country</members>
+        <members>ScratchOrgInfo.DeletedBy</members>
+        <members>ScratchOrgInfo.DeletedDate</members>
+        <members>ScratchOrgInfo.Description</members>
+        <members>ScratchOrgInfo.Edition</members>
+        <members>ScratchOrgInfo.ErrorCode</members>
+        <members>ScratchOrgInfo.ExpirationDate</members>
+        <members>ScratchOrgInfo.Features</members>
+        <members>ScratchOrgInfo.Instance</members>
+        <members>ScratchOrgInfo.Language</members>
+        <members>ScratchOrgInfo.LastLoginDate</members>
+        <members>ScratchOrgInfo.Name</members>
+        <members>ScratchOrgInfo.Namespace</members>
+        <members>ScratchOrgInfo.OrgName</members>
+        <members>ScratchOrgInfo.Package2AncestorIds</members>
+        <members>ScratchOrgInfo.ScratchOrg</members>
+        <members>ScratchOrgInfo.SignupCountry</members>
+        <members>ScratchOrgInfo.SignupEmail</members>
+        <members>ScratchOrgInfo.SignupInstance</members>
+        <members>ScratchOrgInfo.SignupLanguage</members>
+        <members>ScratchOrgInfo.SignupTrialDays</members>
+        <members>ScratchOrgInfo.SignupUsername</members>
+        <members>ScratchOrgInfo.Status</members>
+        <members>ScratchOrgInfo.Username</members>
         <members>SocialPersona.ExternalId</members>
         <members>SocialPersona.ExternalPictureURL</members>
         <members>SocialPersona.Name</members>
@@ -630,6 +674,7 @@
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
+        <members>ActiveScratchOrg</members>
         <members>Activity</members>
         <members>Asset</members>
         <members>AssetRelationship</members>
@@ -660,6 +705,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>NamespaceRegistry</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -677,6 +723,7 @@
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
+        <members>ScratchOrgInfo</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
@@ -784,6 +831,8 @@
         <members>Account.NewLastWeek</members>
         <members>Account.NewThisWeek</members>
         <members>Account.PlatinumandGoldSLACustomers</members>
+        <members>ActiveScratchOrg.All_Active_Scratch_Orgs</members>
+        <members>ActiveScratchOrg.My_Active_Scratch_Orgs</members>
         <members>Activity.AllActivities</members>
         <members>Activity.MyActivities</members>
         <members>Activity.TodaysTasks</members>
@@ -814,6 +863,7 @@
         <members>Lead.TodaysLeads</members>
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
+        <members>NamespaceRegistry.All_Namespace_Registries</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
         <members>Opportunity.ClosingThisMonth</members>
@@ -829,6 +879,8 @@
         <members>Product2.AllProducts</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
+        <members>ScratchOrgInfo.All_Scratch_Org_Infos</members>
+        <members>ScratchOrgInfo.My_Scratch_Org_Infos</members>
         <members>SocialPersona.AllSocialPersonas</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
