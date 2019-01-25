@@ -94,7 +94,6 @@
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
-        <members>ActiveScratchOrg.Description</members>
         <members>ActiveScratchOrg.Edition</members>
         <members>ActiveScratchOrg.ExpirationDate</members>
         <members>ActiveScratchOrg.Features</members>

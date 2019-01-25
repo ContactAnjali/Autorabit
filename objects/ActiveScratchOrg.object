@@ -31,10 +31,6 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <enableFeeds>false</enableFeeds>
     <fields>
-        <fullName>Description</fullName>
-        <trackHistory>true</trackHistory>
-    </fields>
-    <fields>
         <fullName>Edition</fullName>
     </fields>
     <fields>
