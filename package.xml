@@ -633,6 +633,7 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>CCATest__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -649,6 +650,7 @@
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
+        <members>Entitlement</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
