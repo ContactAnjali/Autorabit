@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>44.0</version>
     <types>
+        <members>CCT_SFDC_demo</members>
         <members>Dev1</members>
         <members>Welcome</members>
         <name>ApexPage</name>
@@ -732,6 +733,7 @@
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
         <members>AssetRelationship-Asset Relationship Layout</members>
+        <members>CCATest__c-CCATest Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
