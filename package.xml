@@ -777,6 +777,7 @@
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
         <members>AssetRelationship-Asset Relationship Layout</members>
+        <members>CCATest__c-CCATest Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
